@@ -9,7 +9,7 @@ const Header = () => {
   };
 
   return (
-    <header className="bg-gradient-to-r from-purple-600 to-indigo-600 text-white p-4">
+    <header className="bg-gradient-to-r from-red-600 to-indigo-600 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
           <h1 className="text-2xl font-bold">Filesure</h1>
