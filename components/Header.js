@@ -12,7 +12,7 @@ const Header = () => {
     <header className="bg-gradient-to-r from-purple-600 to-indigo-600 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
-          <h1 className="text-2xl font-bold">Fylesure</h1>
+          <h1 className="text-2xl font-bold">Filesure</h1>
         </div>
         <nav className="hidden md:flex space-x-4">
           <Link href="#hero" className="hover:text-yellow-300 transition duration-300">Home</Link>
